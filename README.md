@@ -16,7 +16,7 @@ In this final project, we will embark on an exciting journey to build a logistic
 - Interpret and visualize the results: Gain insights from the model's predictions through visualization.
 - Save and load the trained model: Learn techniques to persist and reload models.
 - Perform hyperparameter tuning: Fine-tune the model for optimal performance.
----
+--- 
 ### Detailed Overview -
 **Step 1 :** Data Loading and Preprocessing
 
