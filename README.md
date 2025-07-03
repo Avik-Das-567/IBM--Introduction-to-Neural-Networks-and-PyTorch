@@ -1,14 +1,13 @@
-# IBM - Introduction to Neural Networks and PyTorch (on Coursera)
-### Course Link
-- https://www.coursera.org/learn/deep-neural-networks-with-pytorch
+# IBM - Introduction to Neural Networks and PyTorch (Coursera)
+### Course Link : https://www.coursera.org/learn/deep-neural-networks-with-pytorch
 ---
-### Final Project : League of Legends Match Predictor
+### Final Project Overview : League of Legends Match Predictor
 ---
-### Introduction -
-In this final project, we will embark on an exciting journey to build a logistic regression model aimed at predicting the outcomes of League of Legends matches. Leveraging various in-game statistics, this project will utilize our knowledge of PyTorch, logistic regression, and data handling to create a robust predictive model. League of Legends, a popular multiplayer online battle arena (MOBA) game, generates extensive data from matches, providing an excellent opportunity to apply machine learning techniques to real-world scenarios.
+## Introduction
+In this final project, you will embark on an exciting journey to build a logistic regression model aimed at predicting the outcomes of League of Legends matches. Leveraging various in-game statistics, this project will utilize your knowledge of PyTorch, logistic regression, and data handling to create a robust predictive model. League of Legends, a popular multiplayer online battle arena (MOBA) game, generates extensive data from matches, providing an excellent opportunity to apply machine learning techniques to real-world scenarios.
 
 ---
-### Objectives -
+## Objectives
 - Load and preprocess the dataset: Understand and prepare the data for model training.
 - Implement and train a logistic regression model: Develop a model to predict match outcomes.
 - Evaluate model performance using appropriate metrics: Use various metrics to assess model accuracy and reliability.
@@ -17,18 +16,18 @@ In this final project, we will embark on an exciting journey to build a logistic
 - Save and load the trained model: Learn techniques to persist and reload models.
 - Perform hyperparameter tuning: Fine-tune the model for optimal performance.
 --- 
-### Detailed Overview -
+## Detailed Overview
 **Step 1 :** Data Loading and Preprocessing
 
 **Task 1 :** Load the League of Legends dataset and preprocess it for training.
 
-- This step involves reading the data, splitting it into training and testing sets, and standardizing the features. I will prepare the data for model training utilizing pandas for data manipulation, train_test_split from sklearn for data splitting, and StandardScaler for feature scaling. The data is then converted into PyTorch tensors, which are essential for PyTorch-based model training.
+- This step involves reading the data, splitting it into training and testing sets, and standardizing the features. You will prepare the data for model training utilizing pandas for data manipulation, train_test_split from sklearn for data splitting, and StandardScaler for feature scaling. The data is then converted into PyTorch tensors, which are essential for PyTorch-based model training.
 
 **Step 2 :** Logistic Regression Model
 
 **Task 2 :** Implement a logistic regression model using PyTorch.
 
-- Here, I will define the logistic regression model by specifying the input dimensions and the forward pass using the sigmoid activation function. I will set the stage for training the logistic regression model by initializing the model, loss function, and optimizer.
+- Here, you will define the logistic regression model by specifying the input dimensions and the forward pass using the sigmoid activation function. You will set the stage for training the logistic regression model by initializing the model, loss function, and optimizer.
 
 **Step 3 :** Model Training
 
@@ -58,11 +57,13 @@ In this final project, we will embark on an exciting journey to build a logistic
 
 **Task 7 :** Perform hyperparameter tuning to find the best learning rate.
 
-- By testing different learning rates, I will identify the optimal rate that provides the best test accuracy. This fine-tuning is crucial for enhancing model performance.
+- By testing different learning rates, you will identify the optimal rate that provides the best test accuracy. This fine-tuning is crucial for enhancing model performance.
 
 **Step 8 :** Feature Importance
 
 **Task 8 :** Evaluate feature importance to understand the impact of each feature on the prediction.
 
 - Understanding feature importance helps in identifying which in-game statistics are most influential in predicting match outcomes. This step involves extracting the weights of the linear layer and visualizing them.
+---
+### Course Certificate : https://www.coursera.org/account/accomplishments/verify/S477HI5I2M2H
 ---
