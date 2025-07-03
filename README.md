@@ -1,6 +1,4 @@
 # IBM - Introduction to Neural Networks and PyTorch (Coursera)
-### Course Link : https://www.coursera.org/learn/deep-neural-networks-with-pytorch
----
 ### Final Project Overview : League of Legends Match Predictor
 ---
 ## Introduction
@@ -64,6 +62,8 @@ In this final project, you will embark on an exciting journey to build a logisti
 **Task 8 :** Evaluate feature importance to understand the impact of each feature on the prediction.
 
 - Understanding feature importance helps in identifying which in-game statistics are most influential in predicting match outcomes. This step involves extracting the weights of the linear layer and visualizing them.
+---
+### Course Link : https://www.coursera.org/learn/deep-neural-networks-with-pytorch
 ---
 ### Course Certificate : https://www.coursera.org/account/accomplishments/verify/S477HI5I2M2H
 ---
