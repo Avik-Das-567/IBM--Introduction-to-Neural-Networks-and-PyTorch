@@ -1,5 +1,5 @@
 # IBM - Introduction to Neural Networks and PyTorch (Coursera)
-### Final Project Overview : League of Legends Match Predictor
+### Final Project : League of Legends Match Predictor
 ---
 ## Introduction
 In this final project, you will embark on an exciting journey to build a logistic regression model aimed at predicting the outcomes of League of Legends matches. Leveraging various in-game statistics, this project will utilize your knowledge of PyTorch, logistic regression, and data handling to create a robust predictive model. League of Legends, a popular multiplayer online battle arena (MOBA) game, generates extensive data from matches, providing an excellent opportunity to apply machine learning techniques to real-world scenarios.
